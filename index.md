@@ -1,6 +1,6 @@
-## Brian's First CS193 Homework
+# Brian's First CS193 Homework
 
-# Favorite things about CS 193
+## Favorite things about CS 193
 - the very engaging slideshows
 - the classroom
 - PSOs
